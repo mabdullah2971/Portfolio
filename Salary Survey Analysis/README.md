@@ -6,8 +6,8 @@ For this project, I've performed data analysis on the `ManagerSalarySurvey2021.c
 
 
 ## Code Files:
-[`Data_Cleaning.ipynb`](https://github.com/mabdullah2971/Portfolio/blob/main/Manager%20Salary%20Survey%20Analysis/Data_Cleaning.ipynb)
-[`Data_Analysis.ipynb`](https://github.com/mabdullah2971/Portfolio/blob/main/Manager%20Salary%20Survey%20Analysis/Data_Analysis.ipynb)
+[`Data_Cleaning.ipynb`](https://github.com/mabdullah2971/Portfolio/blob/main/Salary%20Survey%20Analysis/Data_Cleaning.ipynb)
+[`Data_Analysis.ipynb`](https://github.com/mabdullah2971/Portfolio/blob/main/Salary%20Survey%20Analysis/Data_Analysis.ipynb)
 
 The dataset underwent cleaning and preprocessing before analysis. The data cleaning involved extensive code, so I separated the 
 cleaning process into its own file. This allowed me to keep the analysis code clean and focused on the actual analysis 
