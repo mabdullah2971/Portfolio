@@ -2,7 +2,7 @@
 * **Skills:** Data Cleaning, Data Analysis, Data Visualization. <br>
 * **Tools:** Python and its libraries - Pandas, NumPy, Seaborn, Matplotlib.
 
-For this project, I've performed data analysis on the `ManagerSalarySurvey2021.csv` dataset. It contains the responses of the [Ask A Manager Salary Survey 2021](https://www.askamanager.org/2021/04/how-much-money-do-you-make-4.html), as of 13th of October, 2023.
+For this project, I've performed data analysis on the `ManagerSalarySurvey2021.csv` dataset. It contains the responses of the [Ask A Manager Salary Survey 2021](https://www.askamanager.org/2021/04/how-much-money-do-you-make-4.html), collected on the 13th of October, 2023.
 
 
 ## Code Files:
