@@ -3,10 +3,11 @@ This repository serves as a platform to showcase my Data Analytics related skill
 
 ## Contents
 * [Projects](#Projects)
-  * [Salary Survey Analysis](#SalarySurveyAnalysis)
+  * [Salary Survey Analysis](#Salary-Survey-Analysis)
 * [Contact Information](#Contact-Information)
 
 ## Projects
+
 ### [Salary Survey Analysis](https://github.com/mabdullah2971/Portfolio/tree/main/Salary%20Survey%20Analysis)
 **Skills:** Data Cleaning, Data Analysis, Data Visualization. <br>
 **Tools:** Python and its libraries - Pandas, NumPy, Seaborn, Matplotlib.<br>
