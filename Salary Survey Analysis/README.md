@@ -17,7 +17,7 @@ For this project, I've performed data analysis on the `SalarySurvey2021.csv` dat
 
 The dataset underwent cleaning and preprocessing before analysis. The data cleaning involved extensive code, so I separated the 
 cleaning process into its own file. This allowed me to keep the analysis code clean and focused on the actual analysis 
-without the data preparation details. The analysis code explains the methods used to meet the stated objectives.
+without the data preparation details. The code files include the explanations behind the methods used to meet the stated objectives.
 
 ## Results:
 
