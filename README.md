@@ -16,7 +16,7 @@ For this project, I've performed data analysis on the `SalarySurvey2021.csv` dat
 [Ask A Manager Salary Survey 2021](https://www.askamanager.org/2021/04/how-much-money-do-you-make-4.html), collected on the 13th of October, 2023.
 
 #### Objectives:
-1. Which industry pays the most?
+1. Which industries pay the most?
 2. How does salary increase given years of experience?
 3. How do salaries compare for the same role in different locations?
 4. How much do salaries differ by gender?
