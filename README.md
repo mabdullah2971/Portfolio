@@ -9,7 +9,7 @@ This repository serves as a platform to showcase my Data Analytics related skill
 ## Projects
 
 ### [Salary Survey Analysis](https://github.com/mabdullah2971/Portfolio/tree/main/Salary%20Survey%20Analysis)
-* **Skills:** Data Cleaning, Data Analysis, Data Visualization. <br>
+* **Skills:** Data Cleaning, Data Visualization. <br>
 * **Tools:** Python and its libraries - Pandas, NumPy, Matplotlib.<br>
 
 For this project, I've performed data analysis on the `SalarySurvey2021.csv` dataset. It contains the responses of the 
