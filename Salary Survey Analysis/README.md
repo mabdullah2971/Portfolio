@@ -24,5 +24,6 @@ without the data preparation details. The code files include the explanations be
 ### 1. Which industry pays the most?
 ![avg_salaries.png](https://github.com/mabdullah2971/Portfolio/blob/main/Salary%20Survey%20Analysis/img/avg_salaries.png)
 
-
-
+### 2. How does salary increase given years of experience?
+![overall_exp_vs_salary.png](https://github.com/mabdullah2971/Portfolio/blob/main/Salary%20Survey%20Analysis/img/overall_exp_vs_salary.png)
+![field_exp_vs_salary.png](https://github.com/mabdullah2971/Portfolio/blob/main/Salary%20Survey%20Analysis/img/field_exp_vs_salary.png)
