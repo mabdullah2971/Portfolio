@@ -7,9 +7,8 @@ For this project, I've performed data analysis on the `SalarySurvey2021.csv` dat
 ## Objectives:
 1. Which industries pay the most?
 2. How does salary increase given years of experience?
-3. How do salaries compare for the same role in different locations?
-4. How much do salaries differ by gender?
-5. How do factors like race and education level correlate with salary?
+3. How much do salaries differ by gender?
+4. How do factors like race and education level correlate with salary?
 
 ## Code Files:
 [`data_cleaning.ipynb`](https://github.com/mabdullah2971/Portfolio/blob/main/Salary%20Survey%20Analysis/data_cleaning.ipynb)
