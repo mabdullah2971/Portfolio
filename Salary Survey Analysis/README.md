@@ -23,7 +23,7 @@ without the data preparation details. The code files include the explanations be
 
 ### 1. Which industry pays the most?
 ![avg_sal_per_industry.png](https://github.com/mabdullah2971/Portfolio/blob/main/Salary%20Survey%20Analysis/img/avg_sal_per_industry.png) <br>
-The bar chart shows industries ranked by their average annual salaries, with Computing & Tech at the top earning the most and Social Work at the bottom earning the least
+The bar chart shows industries ranked by their average annual salaries, with Computing & Tech at the top earning the most and Social Work at the bottom earning the least.
 
 ### 2. How does salary increase given years of experience?
 ![avg_sal_vs_exp.png](https://github.com/mabdullah2971/Portfolio/blob/main/Salary%20Survey%20Analysis/img/avg_sal_vs_exp.png) <br>
