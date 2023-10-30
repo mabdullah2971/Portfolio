@@ -33,10 +33,10 @@ We can see that as experience increases, annual salary also increases upto 21-30
 ![avg_sal_vs_gender.png](https://github.com/mabdullah2971/Portfolio/blob/main/Salary%20Survey%20Analysis/img/avg_sal_vs_gender.png) <br>
 The interquartile range for 'Men' starts at a higher salary compared to 'Women' and 'Non-binary' individuals. This suggests that 'Men' typically have higher earnings, while 'Non-binary' individuals tend to have the lowest earnings.
 
-When investigating further, it is found that the -
-* percentage of men working in the top 10 highest paying industries: 14.15% 
-* percentage of women working in the top 10 highest paying industries: 38.86% 
-* percentage of non-binary people working in the top 10 highest paying industries: 1.28%
+When investigating further, it is found that in the top 10 highest paying industries, the percentage of -
+* men working in the top 10 highest paying industries: 14.15%
+* women working in the top 10 highest paying industries: 38.86%
+* non-binary people working in the top 10 highest paying industries: 1.28%
 
 The boxplot showing that men earn the most could be due to the following reasons -
 * There could be seniority differences within the same industries. If men tend to hold more senior/higher paying roles than women within the same industries, that would lead to higher overall pay.
