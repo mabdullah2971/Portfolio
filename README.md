@@ -24,13 +24,6 @@ For this project, I've performed data analysis on the `SalarySurvey2021.csv` dat
 
 I've done some exploratory analysis on the [Airline Dataset](https://www.kaggle.com/datasets/mohammadkaiftahir/airline-dataset/code).
 
-#### Objectives:
-1. Which industries pay the most?
-2. How does salary increase given years of experience?
-3. How much do salaries differ by gender?
-4. How does education level correlate with salary?
-5. How does race correlate with salary?
-
 ## Contact Information
 * **Email:** m.abdullah2971@gmail.com <br>
 * **LinkedIn:** [linkedin.com/in/minhaj-azim-abdullah](https://www.linkedin.com/in/minhaj-azim-abdullah/)
