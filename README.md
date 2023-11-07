@@ -13,7 +13,7 @@ This repository serves as a platform to showcase my Data Analytics related skill
 * **Skills:** Data Cleaning, Data Visualization. <br>
 * **Tools:** Python and its libraries - Pandas, NumPy, Matplotlib, Seaborn. <br>
 
-### [Airline Data Analysis](https://github.com/mabdullah2971/Portfolio/tree/main/Salary%20Survey%20Analysis)
+### [Airline Data Analysis](https://github.com/mabdullah2971/Portfolio/tree/main/Airline%20Data%20Analysis)
 * **Skills:** Data Analysis <br>
 * **Tools:** SQL <br>
 
