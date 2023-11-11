@@ -22,7 +22,10 @@ For this project, I've performed data analysis on the `SalarySurvey2021.csv` dat
 * **Skills:** Data Analysis <br>
 * **Tools:** SQL <br>
 
-I've done some exploratory analysis on the [Airline Dataset](https://www.kaggle.com/datasets/mohammadkaiftahir/airline-dataset/code).
+I've done some exploratory analysis on the [Airline Dataset](https://www.kaggle.com/datasets/mohammadkaiftahir/airline-dataset/code). The goal of this project is to demonstrate proficiency with SQL by performing queries that showcase specific techniques like:
+* Joins - Connecting multiple tables through foreign key relationships to gather expanded information in a single query
+* Aggregate functions - Using COUNT, MAX, etc to summarize numeric data fields
+* Subqueries - Nesting inner queries within outer query to filter or compute values through multiple steps
 
 ## Contact Information
 * **Email:** m.abdullah2971@gmail.com <br>
