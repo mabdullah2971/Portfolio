@@ -24,7 +24,7 @@ I've done some exploratory analysis on the [Airline Dataset](https://www.kaggle.
 * status: could check how many flights get cancelled by airline, city, etc
 
 ### ticket_flights
-* flight_id : conencts this table to the main flights table
+* flight_id : connects this table to the main flights table
 * amount: indicates how much the passenger paid
 * fare_conditions: the seat class they travelled in
  
