@@ -13,8 +13,7 @@ This repository serves as a platform to showcase my Data Analytics related skill
 * **Skills:** Data Cleaning, Data Visualization. <br>
 * **Tools:** Python and its libraries - Pandas, NumPy, Matplotlib, Seaborn. <br>
 
-For this project, I've performed data analysis on the `SalarySurvey2021.csv` dataset. It contains the responses of the 
-[Ask A Manager Salary Survey 2021](https://www.askamanager.org/2021/04/how-much-money-do-you-make-4.html), collected on the 13th of October, 2023.
+Performed data analysis on the `SalarySurvey2021.csv` dataset which contains the responses of the [Ask A Manager Salary Survey 2021](https://www.askamanager.org/2021/04/how-much-money-do-you-make-4.html).
 
 ---
 
