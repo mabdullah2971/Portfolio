@@ -7,6 +7,9 @@ I've done some exploratory analysis on the [Airline Dataset](https://www.kaggle.
 * Aggregate functions - Using COUNT, MAX, etc to summarize numeric data fields
 * Subqueries - Nesting inner queries within outer query to filter or compute values through multiple steps
 
+## Code Files:
+[`AirlineDataAnalysis.ipynb`](https://github.com/mabdullah2971/Portfolio/blob/main/Airline%20Data%20Analysis/AirlineDataAnalysis.ipynb)
+
 ## Tables & Columns of Interest
 
 ### aircrafts_data
