@@ -2,7 +2,7 @@
 * **Skills:** Data Analysis <br>
 * **Tools:** SQL <br>
 
-I've done some exploratory analysis on the [Airline Dataset](https://www.kaggle.com/datasets/mohammadkaiftahir/airline-dataset/code). The goal of this project is to demonstrate proficiency with SQL by performing queries that showcase specific techniques such as joins, aggregate functions, subqueries, etc.
+Performed exploratory analysis on the [Airline Dataset](https://www.kaggle.com/datasets/mohammadkaiftahir/airline-dataset/code). The goal of this project is to demonstrate proficiency with SQL by performing queries that showcase specific techniques such as joins, aggregate functions, subqueries, etc.
 
 ## Code Files:
 [`AirlineDataAnalysis.ipynb`](https://github.com/mabdullah2971/Portfolio/blob/main/Airline%20Data%20Analysis/AirlineDataAnalysis.ipynb)
