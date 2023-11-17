@@ -3,11 +3,20 @@ This repository serves as a platform to showcase my Data Analytics related skill
 
 ## Contents
 * [Projects](#Projects)
+  * [Titanic - Machine Learning from Disaster](#Titanic---Machine-Learning-from-Disaster)
   * [Salary Survey Analysis](#Salary-Survey-Analysis)
   * [Airline Data Analysis](#Airline-Data-Analysis)
 * [Contact Information](#Contact-Information)
 
 ## Projects
+
+### [Titanic - Machine Learning from Disaster](https://www.kaggle.com/code/mabdullah2971/titanic)
+* **Skills:** Data Cleaning, Machine Learning <br>
+* **Tools:** Python and the ‘scikit-learn’ library. <br>
+
+Used machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+
+---
 
 ### [Salary Survey Analysis](https://github.com/mabdullah2971/Portfolio/tree/main/Salary%20Survey%20Analysis)
 * **Skills:** Data Cleaning, Data Visualization. <br>
