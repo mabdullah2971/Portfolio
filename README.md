@@ -1,5 +1,5 @@
 # Minhaj Azim Abdullah - Portfolio
-This repository serves as a platform to showcase my Data Engineering & Analytics related skills through various projects.
+This repository serves as a platform to showcase my data-related skills through various projects.
 
 ## Contents
 * [Projects](#Projects)
